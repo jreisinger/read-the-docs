@@ -1,0 +1,8 @@
+# docsite stuff...
+docs/*.html
+docs/_static/*.gif
+docs/_static/*.png
+docs/_static/websupport.js
+docs/searchindex.js
+docs/htmlout
+docs/_build
